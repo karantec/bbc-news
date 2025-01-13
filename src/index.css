@@ -1,0 +1,9 @@
+.container{
+  width: 100%;
+  background-color: #E5E6E4;
+  height: 60vh;
+  display: flex;
+  justify-content: center; /* Horizontally center the image */
+  align-items: center; 
+  
+}

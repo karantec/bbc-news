@@ -1,0 +1,22 @@
+import React from "react";
+import chotibadi from '../../assets/chotibadi.png';
+
+const SmallbD = [
+    {
+        img: chotibadi,
+        title: 'Trump, Putin : पुतिन से मिलने को तैयार ट्रंप.',// Fixed: Added quotes around the string
+        des: '10 जनवरी 2025',       // Fixed: Added quotes around the string
+    },
+    {
+        img: chotibadi,
+        title: 'Trump, Putin : पुतिन से मिलने को तैयार ट्रंप.',// Fixed: Added quotes around the string
+        des: '10 जनवरी 2025',       // Fixed: Added quotes around the string
+    },
+    {
+        img: chotibadi,
+        title: 'Trump, Putin : पुतिन से मिलने को तैयार ट्रंप.',// Fixed: Added quotes around the string
+        des: '10 जनवरी 2025',       // Fixed: Added quotes around the string
+    }
+];
+
+export default SmallbD;
